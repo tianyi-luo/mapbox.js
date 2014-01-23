@@ -8,6 +8,6 @@ oldversion: v0.6.7
 title: Mapbox.js
 defaultid: 'examples.map-9ijuk24y'
 description: Mapbox JavaScript API
-exclude: [node_modules]
+exclude: [node_modules, build.sh, config.ru, Gemfile, Gemfile.lock, generate.js, header, leaflet-reference.html, package.json]
 rdiscount:
   extensions: [smart]
